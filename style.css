@@ -37,7 +37,7 @@
 }
 
 body {
-  font-family: hanken;
+  font-family: 'hanken';
   font-size: 1.125rem;
   color: hsl(224, 30%, 27%);
 }
